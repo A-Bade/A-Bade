@@ -1,4 +1,13 @@
-### Hi there 👋
+
+
+### Hi there 👋 My name is Abdiraxman Bade. Welcome to my Github profile.
+
+I'm a thriving engineering student who has a passion for all things hardware related. Whether that would be computer hardware installation, logic designing, manipulating microcontrollers using code, or just building electric circuits, working with hardware is an experience I wish to learn in my future career. 
+
+Feel free to contact me as I am constantly eager to interact with new people and push myself to pursue new possibilities!
+
+
+
 
 <!--
 **A-Bade/A-Bade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
