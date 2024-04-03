@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Abdiraxman Bade Welcome to my GitHub profile</h1>
+<h1 align="center">Hi 👋, I'm Abdiraxman Bade. Welcome to my GitHub profile</h1>
 <h3 align="center">I'm a thriving engineering student who has a passion for all things hardware related. Whether that would be computer hardware installation, logic designing, manipulating microcontrollers using code, or just building electric circuits, working with hardware is an experience I wish to learn in my future career. Feel free to contact me as I am constantly eager to interact with new people and push myself to pursue new possibilities!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-bade&label=Profile%20views&color=0e75b6&style=flat" alt="a-bade" /> </p>
