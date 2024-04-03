@@ -2,9 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/A-Bade/count.svg?"  />
-</div>
 
 ###
 
@@ -105,6 +102,15 @@
 
 ###
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-bade&show_icons=true&locale=en&layout=compact" alt="a-bade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-bade&show_icons=true&locale=en" alt="a-bade" /></p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-bade&show_icons=true&locale=en&layout=compact"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/A-Bade/count.svg?"  />
+</div>
