@@ -1,9 +1,5 @@
 
 
-<div align="center">
-  <img height="160" src="https://img.pikbest.com/wp/202405/motherboard-3d-illustration-of-digital-chip-technology-cpu-concept-on-background_9840089.jpg!w700wp"  />
-</div>
-
 ###
 
 <div align="center">
